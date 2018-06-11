@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alvaroiriarte.github.io/alvarogleziriarte/index.html</loc>
+    <lastmod>2018-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://alvaroiriarte.github.io/alvarogleziriarte/images/ca_01_alvarogonzalez.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alvaroiriarte.github.io/alvarogleziriarte/images/ca_02_alvarogonzalez.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alvaroiriarte.github.io/alvarogleziriarte/images/ca_05_alvarogonzalez.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alvaroiriarte.github.io/alvarogleziriarte/images/ca_01_alvarogonzalez425x290.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alvaroiriarte.github.io/alvarogleziriarte/images/ca_05_alvarogonzalez-crop-u984.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alvaroiriarte.github.io/alvarogleziriarte/images/ca_02_alvarogonzalez-crop-u944.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alvaroiriarte.github.io/alvarogleziriarte/images/08292a35-994e-45ff-80db-991e7290bc2d.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://alvaroiriarte.github.io/alvarogleziriarte/assets/cv-europass-20171010-gonz%C3%A1leziriarte-es.pdf</loc>
+    <lastmod>2018-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://alvaroiriarte.github.io/alvarogleziriarte/assets/cv-europass-20171010-gonz%C3%A1leziriarte-es2.pdf</loc>
+    <lastmod>2018-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

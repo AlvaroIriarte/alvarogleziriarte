@@ -1,0 +1,74 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alvaroiriarte.github.io/alvarogleziriarte" resolutions="1x" timestamp="1528757205068">
+  <folder name="css">
+    <file name="site_global.css" crc="74325588"/>
+    <file name="master_a-p_g_-maestra.css" crc="206755795" ref="index"/>
+    <file name="index.css" crc="3937119211" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="cv-europass-20171010-gonzáleziriarte-es.pdf" crc="401650900" seo="true" mt="1515687000000"/>
+    <file name="cv-europass-20171010-gonzáleziriarte-es2.pdf" crc="401650900" seo="true" mt="1515687000000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1193.php" crc="3781132410" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ca_01_alvarogonzalez.jpg" crc="3976148513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ca_02_alvarogonzalez.jpg" crc="4192116083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca_05_alvarogonzalez.jpg" crc="20008347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca_01_alvarogonzalez425x290.jpg" crc="166192615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca_05_alvarogonzalez-crop-u984.jpg" crc="4160110045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca_02_alvarogonzalez-crop-u944.jpg" crc="417510649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1160-4.png" crc="469789736" ref="index"/>
+    <file name="u1171-4.png" crc="516412244" ref="index"/>
+    <file name="u1177-8.png" crc="4253182554" ref="index"/>
+    <file name="08292a35-994e-45ff-80db-991e7290bc2d.jpg" crc="4031849056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1174-4.png" crc="359496929" ref="index"/>
+    <file name="u1208.png" crc="4279174473" ref="index"/>
+    <file name="u1208-ferr.png" crc="3831255750" ref="index"/>
+    <file name="u1197.png" crc="516648268" ref="index"/>
+    <file name="u1197-ferr.png" crc="231642635" ref="index"/>
+    <file name="u1201.png" crc="4211870302" ref="index"/>
+    <file name="u1201-ferr.png" crc="4070523078" ref="index"/>
+    <file name="u568-4.png" crc="4173012954" ref="index"/>
+    <file name="u707.png" crc="509205268" ref="index"/>
+    <file name="u707-a.png" crc="16048590" ref="index"/>
+    <file name="u794.png" crc="427664805" ref="index"/>
+    <file name="u794-a.png" crc="355467641" ref="index"/>
+    <file name="u773.png" crc="517448253" ref="index"/>
+    <file name="u773-a.png" crc="4139506511" ref="index"/>
+    <file name="u752.png" crc="324497905" ref="index"/>
+    <file name="u752-a.png" crc="4280778305" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4223083284" seo="true" mt="1528757032156" redirect="true"/>
+</manifest>
